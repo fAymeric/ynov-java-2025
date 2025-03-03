@@ -3,6 +3,9 @@ package fr.ynov.java.easy;
 public class HelloWorld {
 
     public static void main(String[] args) {
-        System.out.println("Hello World !");
+        //ForEasy.forLoop();
+        //WhileEasy.whileEasy();
+        //DoWhileEasy.doWhile();
+        //Array.array();
     }
 }
