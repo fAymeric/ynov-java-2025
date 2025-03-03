@@ -8,5 +8,6 @@ public class HelloWorld {
         //DoWhileEasy.doWhile();
         //Array.array();
         //ScanMe.scanner();
+        //EvenOrOdd.compare();
     }
 }
