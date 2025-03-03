@@ -9,5 +9,6 @@ public class HelloWorld {
         //Array.array();
         //ScanMe.scanner();
         //EvenOrOdd.compare();
+        Args.args();
     }
 }
