@@ -7,5 +7,6 @@ public class HelloWorld {
         //WhileEasy.whileEasy();
         //DoWhileEasy.doWhile();
         //Array.array();
+        //ScanMe.scanner();
     }
 }
