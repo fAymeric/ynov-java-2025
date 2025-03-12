@@ -1,9 +1,8 @@
 package fr.ynov.java.medium;
 
-import fr.ynov.java.easy.Args;
-
 public class Main {
     public static void main(String[] args) {
-        Square.square();
+        Person person = new Person("Albert reporter", 30, "Male", 180f, 75.0f, Person.Nationality.USA);
+        person.printPersonDetails();
     }
 }
